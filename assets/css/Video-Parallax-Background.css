@@ -14,8 +14,11 @@
   overflow: hidden;
 }
 
-.video-parallax-container {
-  height: 100vh;
+.embed-responsive-item {
+  height: auto;
+  padding-top: 50px;
+  width: auto;
   overflow: hidden;
+  
 }
 

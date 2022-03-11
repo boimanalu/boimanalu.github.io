@@ -7,7 +7,7 @@
 }
 
 .videoWrapper {
-  position: relative;
+  position: fixed;
   padding-bottom: 56.25%;
   height: 0;
 }
